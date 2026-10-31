@@ -20,6 +20,7 @@ To develop a Python program to convert non-stationary time series data into stat
 10. Display the graphs and observe the changes.
 
 ### PROGRAM:
+
 ```python
 import pandas as pd
 import numpy as np
@@ -117,6 +118,7 @@ plt.show()
 data.plot(figsize=(12,6))
 plt.show()
 ```
+
 
 ### OUTPUT:
 ORIGINAL DATA:
